@@ -32,6 +32,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+gem 'devise', '~> 3.1.1'
 gem 'haml', '~> 4.0.3'
 
 # Use ActiveModel has_secure_password
